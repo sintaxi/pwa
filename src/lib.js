@@ -6,6 +6,5 @@ module.exports = microplatform({
   cmd: "pwa",
   name: "pwa platform",
   platform: "pwa.sh",
-  version: pkg.version,
   boilerplates: __dirname + "/boilerplates"
 })
