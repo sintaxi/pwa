@@ -1,14 +1,14 @@
 {
   "name": "pwa",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "open echosystem for an open web. (WIP)",
   "author": "Brock Whitten <brock@sintaxi.com>",
   "license": "ISC",
   "dependencies": {
     "microplatform": "0.8.0"
   },
-  "main": "./src/lib.js",
-  "bin": "./src/cli",
+  "main": "./platform.js",
+  "bin": "./pwa",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sintaxi/pwa.git"
