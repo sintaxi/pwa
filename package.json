@@ -5,7 +5,7 @@
   "author": "Brock Whitten <brock@sintaxi.com>",
   "license": "ISC",
   "dependencies": {
-    "microplatform": "0.8.0"
+    "microplatform": "0.8.2"
   },
   "main": "./platform.js",
   "bin": "./pwa",
