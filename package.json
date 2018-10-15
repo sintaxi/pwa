@@ -5,10 +5,10 @@
   "author": "Brock Whitten <brock@sintaxi.com>",
   "license": "ISC",
   "dependencies": {
-    "microplatform": "0.8.3"
+    "microplatform": "0.10.0"
   },
-  "main": "./platform.js",
-  "bin": "./pwa",
+  "main": "./src/lib.js",
+  "bin": "./src/cli",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sintaxi/pwa.git"
