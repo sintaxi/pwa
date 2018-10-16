@@ -2,7 +2,8 @@
 
 > easy way to pwa
 
-  pwa v1.9.4 / pwa.sh
+```
+  pwa v1.9.5 / pwa.sh
   open echosystem for an open web. (WIP)
 
   Usage:
@@ -28,3 +29,4 @@
     pwa . _                  Publishes and generates sub domain
 
   please visit pwa.sh for more information
+```
